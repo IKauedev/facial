@@ -1,4 +1,4 @@
-# 🔐 Sistema de Reconhecimento Facial com OpenCV
+# Sistema de Reconhecimento Facial com OpenCV
 
 Este é um sistema de controle de acesso baseado em **reconhecimento facial em tempo real** utilizando Python, OpenCV e SQLite. O sistema permite:
 
@@ -9,7 +9,7 @@ Este é um sistema de controle de acesso baseado em **reconhecimento facial em t
 - Registrar todos os reconhecimentos em um log CSV
 
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Python 3.10+**
 - **OpenCV (opencv-contrib-python)**: para captura, detecção e reconhecimento facial
@@ -19,13 +19,13 @@ Este é um sistema de controle de acesso baseado em **reconhecimento facial em t
 - **CSV**: registro dos acessos reconhecidos
 
 
-## ⚙️ Requisitos
+## Requisitos
 
 - Sistema operacional: Windows (ou Linux adaptado)
 - Webcam funcional
 - Python instalado (recomendado: 3.10 ou superior)
 
-## 🧰 Instalação dos Pacotes
+##  Instalação dos Pacotes
 
 Abra o terminal na pasta do projeto e execute:
 
