@@ -1,0 +1,58 @@
+Metadata-Version: 2.1
+Name: opencv-face-recognition
+Version: 1.1.1
+Summary: Revolutionize Biometric Authentication with OpenCV Face Recognition: Top-Rated Accuracy & Liveness Detection
+Author-email: Seventh Sense Artificial Intelligence Private Limited <support@seventhsense.ai>
+License: The MIT License (MIT)
+        Copyright © 2022 Seventh Sense Artificial Intelligence Private Limited
+        
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+        
+        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+        
+        THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Project-URL: Homepage, https://docs.opencv.fr/python
+Keywords: Opencv Face Recognition,Opencv FR,Face Verification,Face Recognition
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: pillow
+Requires-Dist: python-dateutil
+Requires-Dist: requests
+Provides-Extra: dev
+Requires-Dist: mkdocs ; extra == 'dev'
+
+# OpenCV Face Recognition Python SDK
+
+Introducing OpenCV-Face-Recognition, the cutting-edge Python SDK that's transforming biometric authentication in security and technology sectors. Our deep learning-driven library offers an array of powerful features including:
+
+* **Face Registration & Search**: Easily register individuals using their facial images and swiftly search for registered persons, streamlining user management.
+* **Grouping into Collections**: Organize individuals into collections for better management and quick retrieval.
+* **Face Comparison**: Utilize our advanced algorithms to compare two faces and determine if they belong to the same person with unparalleled accuracy.
+* **Liveness Checks**: Stay ahead of spoofing attempts with our sophisticated liveness checks, ensuring that each photo is genuine.
+
+Ideal for applications in attendance checking, access monitoring, building security, criminal identification, and KYC processes, OpenCV-Face-Recognition excels in scenarios demanding high security and precision.
+
+**Top-Notch Performance Metrics**: Standing out in the industry, our library boasts a 99.99% accuracy rate and a less than 1% false non-match rate, backed by a top 8 ranking in NIST evaluations as of Q1 2022. Our unique single-image liveness detection feature not only enhances user experience but also meets Level 2 compliance as per ISO 30107-3 standards.
+
+**Universal Compatibility**: As a JSON REST-based API, our SDK seamlessly integrates into any internet-connected device capable of facial image capture, making it universally adaptable.
+
+**SaaS Model Licensing**: We offer a flexible monthly subscription model, making cutting-edge facial recognition technology accessible and scalable for your organization.
+
+Elevate your security and technology features with OpenCV-Face-Recognition – where innovation meets reliability.
+
+# How to use
+
+Install the package via:
+```
+pip install opencv-face-recognition
+```
+
+# Documentation
+
+Our documentation can be found [here](https://docs.opencv.fr/python/)
